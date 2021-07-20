@@ -18,20 +18,21 @@ I am billymoon XD. 🌈
 * 🎉   Software and Frameworks
 
 <p align="center">    
-    <img src="icons/python.svg" />
-    <img src="icons/tensorflow.svg" />
+    <img src="icons/python.svg" /> &ensp; &ensp;
+    <img src="icons/tensorflow.svg" /> &ensp; &ensp;
     <img src="icons/keras.svg" />
 </p>
 <p align="center">
-    <img src="icons/java.svg" />
-    <img src="icons/spring.svg" />
+    <img src="icons/java.svg" /> &ensp; &ensp;
+    <img src="icons/spring.svg" /> &ensp; &ensp;
     <img src="icons/redis.svg" />
 </p>
 <p align="center"> 
-    <img src="icons/linux.svg" />
-    <img src="icons/ubuntu.svg" />
+    <img src="icons/linux.svg" /> &ensp; &ensp;
+    <img src="icons/ubuntu.svg" /> &ensp; &ensp;
     <img src="icons/vim.svg" />
 </p>
+
 
 
 
@@ -41,8 +42,9 @@ I am billymoon XD. 🌈
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=billymoonxd&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="halfrost's Github Stats" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billymoonxd&hide_langs_below=1&hide_border=true&layout=compact&theme=default" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billymoonxd&hide_langs_below=1&hide_border=true&layout=compact&theme=default" />
 </p>
+
 </details>
 
 <hr>
