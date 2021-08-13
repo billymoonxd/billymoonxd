@@ -2,11 +2,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I am billymoon XD. 🌈    
+I am billymoon XD 🌈    
 
 * 🧐   Interested in programming.
 * 🎓   Working towards M. S. degree in Mechanical Engineering.
-* 🌱   Currently learning Math & Philosophy.
+* 🌱   Currently learning *Data Structures & Algorithms*.
 * 📚   Reading *Effective Java, Third Edition* by Joshua Bloch.
 * 💻   With 3 years' computer science education and 2 years' deep learning experience.
 * ⛵   Encouraging people for open source collaborations.
@@ -15,7 +15,7 @@ I am billymoon XD. 🌈
   <summary>Some other information about me~</summary>
   <br>
 
-* 🎉   Software and Frameworks
+* 🎉   Software & Frameworks
 
 <p align="center">    
     <img src="icons/python.svg" /> &ensp; &ensp;
